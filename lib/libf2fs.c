@@ -22,6 +22,7 @@
 #ifndef WITH_ANDROID
 #include <scsi/sg.h>
 #endif
+#include <sys/sysmacros.h>
 #include <linux/hdreg.h>
 #include <linux/limits.h>
 
